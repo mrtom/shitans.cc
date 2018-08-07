@@ -1,3 +1,3 @@
 # shitans.cc
 
-Hello World
+Welcome to shitans.cc
